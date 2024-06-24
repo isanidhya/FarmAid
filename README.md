@@ -69,8 +69,8 @@ FarmAid is an AI-powered chat helper designed to assist Indian farmers with a ra
 
 ### Contributors
 
-- John Doe
-- Jane Smith
+- Tanishka Jain
+- Simran Goyal
 
 ### License
 
@@ -83,4 +83,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   
 ### Feedback and Support
 
-If you have any feedback, suggestions, or issues with FarmAid, please reach out to us at [farmaid@example.com](mailto:farmaid@example.com). Your input helps us improve this tool for the benefit of Indian farmers.
+If you have any feedback, suggestions, or issues with FarmAid, please reach out to us at [sanidhyasahu612@gmail.com](mailto:sanidhyasahu612@gmail.com). Your input helps us improve this tool for the benefit of Indian farmers.
